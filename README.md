@@ -1,27 +1,27 @@
 # 리액트 숙제
 
--[ ] 01: https://github.com/hwisaac/react-assignment/tree/master/src/homework/01 react-router-dom 이용해서 라우팅
--[ ] 02: https://github.com/hwisaac/react-assignment/tree/master/src/homework/02 모달창 만들어보기
--[ ] 03: https://github.com/hwisaac/react-assignment/tree/master/src/homework/03 styled-component 사용해보기
--[ ] 04: https://github.com/hwisaac/react-assignment/tree/master/src/homework/04 data 리스트가 주어질 때 출력하기
--[x] 05: https://github.com/hwisaac/react-assignment/tree/master/src/homework/05 클래스 정의해보기1
--[ ] 06: https://github.com/hwisaac/react-assignment/tree/master/src/homework/06 framer-motion 슬라이더 만들기
--[ ] 07: https://github.com/hwisaac/react-assignment/tree/master/src/homework/07 함수 매개변수와 리턴 타입 정의해보기
--[x] 08: https://github.com/hwisaac/react-assignment/tree/master/src/homework/08 클래스 정의해보기2
--[ ] 09: https://github.com/hwisaac/react-assignment/tree/master/src/homework/09 무한스크롤 구현하기
--[ ] 10: https://github.com/hwisaac/react-assignment/tree/master/src/homework/10 framer-motion 으로 애니메이션 구현1
--[ ] 11: https://github.com/hwisaac/react-assignment/tree/master/src/homework/11 framer-motion 으로 애니메이션 구현2
--[ ] 12: https://github.com/hwisaac/react-assignment/tree/master/src/homework/12 framer-motion 으로 애니메이션 구현3
--[ ] 13: https://github.com/hwisaac/react-assignment/tree/master/src/homework/13 인풋 유효성 검사
--[ ] 14: https://github.com/hwisaac/react-assignment/tree/master/src/homework/14 react-hook-form
--[ ] 15: https://github.com/hwisaac/react-assignment/tree/master/src/homework/15 tailwind 연습1
--[ ] 16: https://github.com/hwisaac/react-assignment/tree/master/src/homework/16 tailwind 연습2
--[ ] 17: https://github.com/hwisaac/react-assignment/tree/master/src/homework/17 tailwind 연습3
--[ ] 18: https://github.com/hwisaac/react-assignment/tree/master/src/homework/18 tailwind 연습4
--[ ] 19: https://github.com/hwisaac/react-assignment/tree/master/src/homework/19 전체 체크박스 기능 구현하기
--[ ] 20: https://github.com/hwisaac/react-assignment/tree/master/src/homework/20 커스텀훅 만들기
--[ ] 21: https://github.com/hwisaac/react-assignment/tree/master/src/homework/21 react-query로 네트워크 자원 아끼기
--[ ] 22: https://github.com/hwisaac/react-assignment/tree/master/src/homework/22 리덕스로 투두리스트 만들기
+- [ ] 01: https://github.com/hwisaac/react-assignment/tree/master/src/homework/01 react-router-dom 이용해서 라우팅
+- [ ] 02: https://github.com/hwisaac/react-assignment/tree/master/src/homework/02 모달창 만들어보기
+- [ ] 03: https://github.com/hwisaac/react-assignment/tree/master/src/homework/03 styled-component 사용해보기
+- [ ] 04: https://github.com/hwisaac/react-assignment/tree/master/src/homework/04 data 리스트가 주어질 때 출력하기
+- [x] 05: https://github.com/hwisaac/react-assignment/tree/master/src/homework/05 클래스 정의해보기1
+- [ ] 06: https://github.com/hwisaac/react-assignment/tree/master/src/homework/06 framer-motion 슬라이더 만들기
+- [ ] 07: https://github.com/hwisaac/react-assignment/tree/master/src/homework/07 함수 매개변수와 리턴 타입 정의해보기
+- [x] 08: https://github.com/hwisaac/react-assignment/tree/master/src/homework/08 클래스 정의해보기2
+- [ ] 09: https://github.com/hwisaac/react-assignment/tree/master/src/homework/09 무한스크롤 구현하기
+- [ ] 10: https://github.com/hwisaac/react-assignment/tree/master/src/homework/10 framer-motion 으로 애니메이션 구현1
+- [ ] 11: https://github.com/hwisaac/react-assignment/tree/master/src/homework/11 framer-motion 으로 애니메이션 구현2
+- [ ] 12: https://github.com/hwisaac/react-assignment/tree/master/src/homework/12 framer-motion 으로 애니메이션 구현3
+- [ ] 13: https://github.com/hwisaac/react-assignment/tree/master/src/homework/13 인풋 유효성 검사
+- [ ] 14: https://github.com/hwisaac/react-assignment/tree/master/src/homework/14 react-hook-form
+- [ ] 15: https://github.com/hwisaac/react-assignment/tree/master/src/homework/15 tailwind 연습1
+- [ ] 16: https://github.com/hwisaac/react-assignment/tree/master/src/homework/16 tailwind 연습2
+- [ ] 17: https://github.com/hwisaac/react-assignment/tree/master/src/homework/17 tailwind 연습3
+- [ ] 18: https://github.com/hwisaac/react-assignment/tree/master/src/homework/18 tailwind 연습4
+- [ ] 19: https://github.com/hwisaac/react-assignment/tree/master/src/homework/19 전체 체크박스 기능 구현하기
+- [ ] 20: https://github.com/hwisaac/react-assignment/tree/master/src/homework/20 커스텀훅 만들기
+- [ ] 21: https://github.com/hwisaac/react-assignment/tree/master/src/homework/21 react-query로 네트워크 자원 아끼기
+- [ ] 22: https://github.com/hwisaac/react-assignment/tree/master/src/homework/22 리덕스로 투두리스트 만들기
 
 ## 목표 및 기준
 
